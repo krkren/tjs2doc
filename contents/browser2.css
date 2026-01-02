@@ -9,7 +9,7 @@ body{
 }
 
 h1:before{
-	content: "Åü ";
+	content: "\25c6 ";
 }
 
 h1{
@@ -262,11 +262,11 @@ div.tagremarks {
 }
 
 span.toindexanchor:before {
-	content: "Å¢ ";
+	content: "\25c6 ";
 }
 
 span.toindexanchor:after {
-	content: " Å¢";
+	content: " \25c6";
 }
 
 div.toindex{
